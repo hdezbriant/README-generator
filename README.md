@@ -29,7 +29,7 @@ file, so be sure to type carefully and completely!
 (If you mess up, you can just run the application again with the same Project Title, and your answers will simply overwrite the
 existing file, no worries!)  
 Click the image for a video guide if you'd like to see it in action!
-
+  
 [![Demonstration of App usage](./assets/images/sampleimg.jpg)](https://youtu.be/nafN8PmA6A0)
 
   
