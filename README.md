@@ -9,7 +9,7 @@
 - [Usage](#Usage)
 - [Contribution](#Contribution-Guidelines)
 - [License](#License)
-- [Questions](#Questions?-Contact-Me!)
+- [Questions](#Questions-Contact-Me)
 - [Credits](#Credits)
 
 ## Description
