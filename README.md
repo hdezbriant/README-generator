@@ -27,7 +27,7 @@ After installing the included npm packages(don't forget this!), simply run `node
 and you'll be met with a series of prompts. The responses you provide to those prompts will be what is used to generate the README
 file, so be sure to type carefully and completely!
 (If you mess up, you can just run the application again with the same Project Title, and your answers will simply overwrite the
-existing file, no worries!)
+existing file, no worries!)  
 Click the image for a video guide if you'd like to see it in action!
 
 [![Demonstration of App usage](./assets/images/sampleimg.jpg)](https://youtu.be/nafN8PmA6A0)
@@ -40,7 +40,7 @@ of this file! I'd love to collaborate to improve and optimize this project, so d
 ## License 
 [The MIT License](https://opensource.org/licenses/MIT)
 
-## Questions? Contact me!
+## Questions? Contact Me!
 Find me on [Github!](https://github.com/hdezbriant)  
 ... Or shoot me an E-mail! <hernandez.briant@gmail.com>  
 
