@@ -1,4 +1,4 @@
-# 09 Node.js Homework: Professional README Generator
+# Professional README Generator
 
 ## Your Task
 
