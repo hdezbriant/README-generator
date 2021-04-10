@@ -8,7 +8,6 @@
 - [Installation](#Install-Instructions)
 - [Usage](#Usage)
 - [Contribution](#Contribution-Guidelines)
-- [Testing](#Test-Instructions)
 - [License](#License)
 - [Questions](#Questions?-Contact-Me!)
 - [Credits](#Credits)
@@ -29,7 +28,10 @@ and you'll be met with a series of prompts. The responses you provide to those p
 file, so be sure to type carefully and completely!
 (If you mess up, you can just run the application again with the same Project Title, and your answers will simply overwrite the
 existing file, no worries!)
-![Demonstration of App usage](./assets/images/sampleimg.jpg)
+Click the image for a video guide if you'd like to see it in action!
+
+[![Demonstration of App usage](./assets/images/sampleimg.jpg)](https://youtu.be/nafN8PmA6A0)
+
   
 ## Contribution Guidelines  
 If you'd like to contribute to this project in some way, please contact me through Github or the email listed at the bottom 
@@ -39,5 +41,12 @@ of this file! I'd love to collaborate to improve and optimize this project, so d
 [The MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions? Contact me!
-Find me on [Github!](https://github.com/hdezbriant) n\
+Find me on [Github!](https://github.com/hdezbriant)  
 ... Or shoot me an E-mail! <hernandez.briant@gmail.com>  
+
+## Credits
+### As always, a very caffeinated thank you to everyone who stayed up with me while we worked!    
+[William Lucht](https://github.com/d606n6k),\
+[Tyler Abegg](https://github.com/UnDuhDuhSea),\
+[Christian Payan](https://github.com/chrispayan), and\
+[Arvin John Bautista](https://github.com/irvinek01),\
