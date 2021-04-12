@@ -41,7 +41,7 @@ of this file! I'd love to collaborate to improve and optimize this project, so d
 [The MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions? Contact Me!
-Find me on [Github!](https://github.com/hdezbriant)  
+Here's a link to my [Github!](https://github.com/hdezbriant)  
 ... Or shoot me an E-mail! <hernandez.briant@gmail.com>  
 
 ## Credits
@@ -49,4 +49,4 @@ Find me on [Github!](https://github.com/hdezbriant)
 [William Lucht](https://github.com/d606n6k),\
 [Tyler Abegg](https://github.com/UnDuhDuhSea),\
 [Christian Payan](https://github.com/chrispayan), and\
-[Arvin John Bautista](https://github.com/irvinek01),\
+[Arvin John Bautista](https://github.com/irvinek01)
